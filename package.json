@@ -1,0 +1,31 @@
+{
+  "name": "vortex-thunderstore",
+  "version": "1.1.0",
+  "license": "GPL-3.0-only",
+  "description": "A conservative Thunderstore integration for Vortex.",
+  "private": true,
+  "type": "commonjs",
+  "config": {
+    "extensionName": "Vortex Thunderstore Integration"
+  },
+  "main": "dist/index.cjs",
+  "scripts": {
+    "build": "node build.mjs",
+    "package:release": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/package-release.ps1",
+    "sync:catalog": "node scripts/sync-catalog.mjs",
+    "sync:nexus-games": "node scripts/sync-nexus-games.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "verify": "npm run typecheck && npm test && npm run build"
+  },
+  "devDependencies": {
+    "@nexusmods/vortex-api": "2.7.0-beta.1",
+    "@types/node": "22.10.2",
+    "@types/react": "18.3.12",
+    "esbuild": "0.28.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "typescript": "5.7.2",
+    "vitest": "2.1.8"
+  }
+}

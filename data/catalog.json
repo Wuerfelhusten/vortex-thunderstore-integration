@@ -1,0 +1,1270 @@
+{
+  "schemaVersion": 1,
+  "snapshotId": "qualified-2026-09-19",
+  "generatedAt": "2026-09-19T12:37:44.316Z",
+  "filter": "exact/normalized Nexus ID or unique normalized/semantic Nexus game-name match + Thunderstore community identifier + Vortex game extension",
+  "entries": [
+    {
+      "mappingKey": "candidate:ale-and-tale-tavern",
+      "ecosystemId": "ale-and-tale-tavern",
+      "community": "ale-and-tale-tavern",
+      "name": "Ale & Tale Tavern",
+      "nexusDomain": "aleandtaletavern",
+      "nexusGameId": 7645,
+      "vortexGameIds": [
+        "aleandtaletavern"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:aska",
+      "ecosystemId": "aska",
+      "community": "aska",
+      "name": "ASKA",
+      "nexusDomain": "aska",
+      "nexusGameId": 7531,
+      "vortexGameIds": [
+        "aska"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:astroneer",
+      "ecosystemId": "astroneer",
+      "community": "astroneer",
+      "name": "Astroneer",
+      "nexusDomain": "astroneer",
+      "nexusGameId": 1955,
+      "vortexGameIds": [
+        "astroneer"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-2.0.4",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:balatro",
+      "ecosystemId": "balatro",
+      "community": "balatro",
+      "name": "Balatro",
+      "nexusDomain": "balatro",
+      "nexusGameId": 6217,
+      "vortexGameIds": [
+        "balatro"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.3.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:bloons-td-6",
+      "ecosystemId": "bloons-td-6",
+      "community": "bloons-td-6",
+      "name": "Bloons TD 6",
+      "nexusDomain": "bloonstd6",
+      "nexusGameId": 3417,
+      "vortexGameIds": [
+        "bloonstd6"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:blue-prince",
+      "ecosystemId": "blue-prince",
+      "community": "blue-prince",
+      "name": "Blue Prince",
+      "nexusDomain": "blueprince",
+      "nexusGameId": 7562,
+      "vortexGameIds": [
+        "blueprince"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:burglin-gnomes",
+      "ecosystemId": "burglin-gnomes",
+      "community": "burglin-gnomes",
+      "name": "Burglin' Gnomes",
+      "nexusDomain": "burglingnomes",
+      "nexusGameId": 8756,
+      "vortexGameIds": [
+        "burglingnomes"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:cairn",
+      "ecosystemId": "cairn",
+      "community": "cairn",
+      "name": "Cairn",
+      "nexusDomain": "cairn",
+      "nexusGameId": 8515,
+      "vortexGameIds": [
+        "cairn"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:clover-pit",
+      "ecosystemId": "clover-pit",
+      "community": "clover-pit",
+      "name": "CloverPit",
+      "nexusDomain": "cloverpit",
+      "nexusGameId": 8219,
+      "vortexGameIds": [
+        "cloverpit"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:cobalt-core",
+      "ecosystemId": "cobalt-core",
+      "community": "cobalt-core",
+      "name": "Cobalt Core",
+      "nexusDomain": "cobaltcore",
+      "nexusGameId": 6111,
+      "vortexGameIds": [
+        "cobaltcore"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.2.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:content-warning",
+      "ecosystemId": "content-warning",
+      "community": "content-warning",
+      "name": "Content Warning",
+      "nexusDomain": "contentwarning",
+      "nexusGameId": 6301,
+      "vortexGameIds": [
+        "contentwarning"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:cult-of-the-lamb",
+      "ecosystemId": "cult-of-the-lamb",
+      "community": "cult-of-the-lamb",
+      "name": "Cult of the Lamb",
+      "nexusDomain": "cultofthelamb",
+      "nexusGameId": 4736,
+      "vortexGameIds": [
+        "cultofthelamb"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:deep-rock-galactic-survivor",
+      "ecosystemId": "deep-rock-galactic-survivor",
+      "community": "deep-rock-galactic-survivor",
+      "name": "Deep Rock Galactic: Survivor",
+      "nexusDomain": "deeprockgalacticsurvivor",
+      "nexusGameId": 6399,
+      "vortexGameIds": [
+        "deeprockgalacticsurvivor"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:disco-elysium",
+      "ecosystemId": "disco-elysium",
+      "community": "disco-elysium",
+      "name": "Disco Elysium",
+      "nexusDomain": "discoelysium",
+      "nexusGameId": 3027,
+      "vortexGameIds": [
+        "discoelysium"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.4",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:football-manager-26",
+      "ecosystemId": "football-manager-26",
+      "community": "football-manager-26",
+      "name": "Football Manager 26",
+      "nexusDomain": "footballmanager26",
+      "nexusGameId": 8374,
+      "vortexGameIds": [
+        "footballmanager26"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:hades-ii",
+      "ecosystemId": "hades-ii",
+      "community": "hades-ii",
+      "name": "Hades 2",
+      "nexusDomain": "hades2",
+      "nexusGameId": 6354,
+      "vortexGameIds": [
+        "hades2"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.1.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-semantic-name-match",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:49:24.229Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:hollow-knight-silksong",
+      "ecosystemId": "hollow-knight-silksong",
+      "community": "hollow-knight-silksong",
+      "name": "Hollow Knight: Silksong",
+      "nexusDomain": "hollowknightsilksong",
+      "nexusGameId": 8136,
+      "vortexGameIds": [
+        "hollowknightsilksong"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.3.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:lethal-company",
+      "ecosystemId": "lethal-company",
+      "community": "lethal-company",
+      "name": "Lethal Company",
+      "nexusDomain": "lethalcompany",
+      "nexusGameId": 5848,
+      "vortexGameIds": [
+        "lethalcompany"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:megabonk",
+      "ecosystemId": "megabonk",
+      "community": "megabonk",
+      "name": "Megabonk",
+      "nexusDomain": "megabonk",
+      "nexusGameId": 7674,
+      "vortexGameIds": [
+        "megabonk"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:mewgenics",
+      "ecosystemId": "mewgenics",
+      "community": "mewgenics",
+      "name": "Mewgenics",
+      "nexusDomain": "mewgenics",
+      "nexusGameId": 8802,
+      "vortexGameIds": [
+        "mewgenics"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.3.4",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:mine-mogul",
+      "ecosystemId": "mine-mogul",
+      "community": "mine-mogul",
+      "name": "MineMogul",
+      "nexusDomain": "minemogul",
+      "nexusGameId": 8537,
+      "vortexGameIds": [
+        "minemogul"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:moonlighter",
+      "ecosystemId": "moonlighter",
+      "community": "moonlighter",
+      "name": "Moonlighter",
+      "nexusDomain": "moonlighter",
+      "nexusGameId": 3706,
+      "vortexGameIds": [
+        "moonlighter"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:my-winter-car",
+      "ecosystemId": "my-winter-car",
+      "community": "my-winter-car",
+      "name": "My Winter Car",
+      "nexusDomain": "mywintercar",
+      "nexusGameId": 8597,
+      "vortexGameIds": [
+        "mywintercar"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.2.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:old-market-simulator",
+      "ecosystemId": "old-market-simulator",
+      "community": "old-market-simulator",
+      "name": "Old Market Simulator",
+      "nexusDomain": "oldmarketsimulator",
+      "nexusGameId": 7040,
+      "vortexGameIds": [
+        "oldmarketsimulator"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.4",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:outward",
+      "ecosystemId": "outward",
+      "community": "outward",
+      "name": "Outward",
+      "nexusDomain": "outward",
+      "nexusGameId": 2775,
+      "vortexGameIds": [
+        "outward"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.0.6",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:palworld",
+      "ecosystemId": "palworld",
+      "community": "palworld",
+      "name": "Palworld",
+      "nexusDomain": "palworld",
+      "nexusGameId": 6063,
+      "vortexGameIds": [
+        "palworld"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.5.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:paralives",
+      "ecosystemId": "paralives",
+      "community": "paralives",
+      "name": "Paralives",
+      "nexusDomain": "paralives",
+      "nexusGameId": 9002,
+      "vortexGameIds": [
+        "paralives"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.3.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:peak",
+      "ecosystemId": "peak",
+      "community": "peak",
+      "name": "PEAK",
+      "nexusDomain": "peak",
+      "nexusGameId": 7867,
+      "vortexGameIds": [
+        "peak"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.2",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:repo",
+      "ecosystemId": "repo",
+      "community": "repo",
+      "name": "R.E.P.O.",
+      "nexusDomain": "repo",
+      "nexusGameId": 7398,
+      "vortexGameIds": [
+        "repo"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:roadside-research",
+      "ecosystemId": "roadside-research",
+      "community": "roadside-research",
+      "name": "Roadside Research",
+      "nexusDomain": "roadsideresearch",
+      "nexusGameId": 8610,
+      "vortexGameIds": [
+        "roadsideresearch"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:rv-there-yet",
+      "ecosystemId": "rv-there-yet",
+      "community": "rv-there-yet",
+      "name": "RV There Yet?",
+      "nexusDomain": "rvthereyet",
+      "nexusGameId": 8319,
+      "vortexGameIds": [
+        "rvthereyet"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:schedule-i",
+      "ecosystemId": "schedule-i",
+      "community": "schedule-i",
+      "name": "Schedule I",
+      "nexusDomain": "schedule1",
+      "nexusGameId": 7381,
+      "vortexGameIds": [
+        "schedule1"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.1.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-name-match",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:shapez-2",
+      "ecosystemId": "shapez-2",
+      "community": "shapez-2",
+      "name": "Shapez 2",
+      "nexusDomain": "shapez2",
+      "nexusGameId": 8962,
+      "vortexGameIds": [
+        "shapez2"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-2.1.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:sons-of-the-forest",
+      "ecosystemId": "sons-of-the-forest",
+      "community": "sons-of-the-forest",
+      "name": "Sons Of The Forest",
+      "nexusDomain": "sonsoftheforest",
+      "nexusGameId": 5165,
+      "vortexGameIds": [
+        "sonsoftheforest"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.5",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:soulcalibur-vi",
+      "ecosystemId": "soulcalibur-vi",
+      "community": "soulcalibur-vi",
+      "name": "SOULCALIBUR VI",
+      "nexusDomain": "soulcaliburvi",
+      "nexusGameId": 2630,
+      "vortexGameIds": [
+        "soulcaliburvi"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:subnautica",
+      "ecosystemId": "subnautica",
+      "community": "subnautica",
+      "name": "Subnautica",
+      "nexusDomain": "subnautica",
+      "nexusGameId": 1155,
+      "vortexGameIds": [
+        "subnautica"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-3.3.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:subnautica-below-zero",
+      "ecosystemId": "subnautica-below-zero",
+      "community": "subnautica-below-zero",
+      "name": "Subnautica: Below Zero",
+      "nexusDomain": "subnauticabelowzero",
+      "nexusGameId": 2706,
+      "vortexGameIds": [
+        "subnauticabelowzero"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-2.0.4",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:sun-haven",
+      "ecosystemId": "sun-haven",
+      "community": "sun-haven",
+      "name": "Sun Haven",
+      "nexusDomain": "sunhaven",
+      "nexusGameId": 3892,
+      "vortexGameIds": [
+        "sunhaven"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.1.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:supermarket-together",
+      "ecosystemId": "supermarket-together",
+      "community": "supermarket-together",
+      "name": "Supermarket Together",
+      "nexusDomain": "supermarkettogether",
+      "nexusGameId": 6766,
+      "vortexGameIds": [
+        "supermarkettogether"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-0.1.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:tcg-card-shop-simulator",
+      "ecosystemId": "tcg-card-shop-simulator",
+      "community": "tcg-card-shop-simulator",
+      "name": "TCG Card Shop Simulator",
+      "nexusDomain": "tcgcardshopsimulator",
+      "nexusGameId": 6826,
+      "vortexGameIds": [
+        "tcgcardshopsimulator"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.4.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-id-match",
+        "vortex-extension-manifest",
+        "nexus-name-match"
+      ],
+      "reviewedAt": "2026-09-19T11:37:49.654Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:techtonica",
+      "ecosystemId": "techtonica",
+      "community": "techtonica",
+      "name": "Techtonica",
+      "nexusDomain": "techtonica",
+      "nexusGameId": 4698,
+      "vortexGameIds": [
+        "techtonica"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.1",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "candidate:the-planet-crafter",
+      "ecosystemId": "the-planet-crafter",
+      "community": "the-planet-crafter",
+      "name": "The Planet Crafter",
+      "nexusDomain": "planetcrafter",
+      "nexusGameId": 4284,
+      "vortexGameIds": [
+        "planetcrafter"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "nexus-semantic-name-match",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:49:24.229Z",
+      "reviewer": "automated-api-sync"
+    },
+    {
+      "mappingKey": "valheim",
+      "ecosystemId": "valheim",
+      "community": "valheim",
+      "name": "Valheim",
+      "nexusDomain": "valheim",
+      "nexusGameId": 3667,
+      "vortexGameIds": [
+        "valheim"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "valheim-1.0.0",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest",
+        "vortex-valheim-extension-local",
+        "valheim-runtime-archive"
+      ],
+      "reviewedAt": "2026-09-18T15:10:00.000Z",
+      "reviewer": "runtime-qualified",
+      "adapter": {
+        "id": "valheim-bepinex",
+        "version": "1.0.0",
+        "loader": "bepinex",
+        "archivePrefixes": [
+          "BepInEx/plugins",
+          "BepInEx/config",
+          "BepInEx/patchers",
+          "plugins",
+          "config",
+          "patchers"
+        ],
+        "allowedStandaloneFiles": [
+          "manifest.json",
+          "README.md",
+          "CHANGELOG.md",
+          "icon.png"
+        ]
+      }
+    },
+    {
+      "mappingKey": "candidate:windrose",
+      "ecosystemId": "windrose",
+      "community": "windrose",
+      "name": "Windrose",
+      "nexusDomain": "windrose",
+      "nexusGameId": 8851,
+      "vortexGameIds": [
+        "windrose"
+      ],
+      "status": "verified",
+      "capabilities": [
+        "browse",
+        "download",
+        "install",
+        "dependencies",
+        "updates"
+      ],
+      "mappingVersion": "vortex-extension-1.0.3",
+      "evidence": [
+        "thunderstore-community-api",
+        "nexus-games-api",
+        "vortex-extension-manifest"
+      ],
+      "reviewedAt": "2026-09-19T11:28:41.740Z",
+      "reviewer": "automated-api-sync"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+name: Verify and package
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run verify
+      - run: npm run package:release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: vortex-thunderstore-build
+          path: |
+            release/*.zip
+            release/*.sha256
+          if-no-files-found: error

@@ -1,0 +1,18 @@
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+
+# Local exports, investigation files and generated discovery snapshots
+*.zip
+release/
+coverage/
+/$auditRoot/
+.DS_Store
+Thumbs.db
+/data/nexus-games.json
+/data/thunderstore-communities.json
+/data/catalog-candidates.json
+/data/catalog-dual-platform.json
