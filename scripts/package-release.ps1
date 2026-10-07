@@ -21,6 +21,7 @@ try {
         if (-not (Test-Path -LiteralPath (Join-Path 'dist' $file) -PathType Leaf)) { throw "Missing release file: $file" }
     }
     New-Item -ItemType Directory -Path $outputDirectory -Force | Out-Null
+    Add-Type -AssemblyName System.IO.Compression
     Add-Type -AssemblyName System.IO.Compression.FileSystem
     $archive = [System.IO.Compression.ZipFile]::Open($zipPath, [System.IO.Compression.ZipArchiveMode]::Create)
     try {
